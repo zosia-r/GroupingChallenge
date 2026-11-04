@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.vcxproj.user
+*.ipch
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+
+# Build output
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.exe
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+
+# CMake
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
